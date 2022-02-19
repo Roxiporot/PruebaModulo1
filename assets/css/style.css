@@ -26,6 +26,7 @@ h1{
 .logosviaje{
     background-color: darkcyan;
     text-align: center;
+    fill:#ffffff;
    
 }
 .icono{
@@ -34,7 +35,6 @@ h1{
 .letrasfooter{
     color:#ffffff;
     font-weight: 700;
-    text-align: center;
 }
 .letrasrelleno{
     font-weight: 300;
@@ -47,6 +47,6 @@ h1{
     font-size: large;
 }
 .letrasnav{
-    color: black;
+    color: #ffffff;
     font-weight: 300;
 }

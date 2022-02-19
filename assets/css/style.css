@@ -12,10 +12,10 @@ h1{
     color:#ffffff;
     text-align: center;
     font-weight: 700;
-
 }
 .fondoceleste{
     background-color: darkcyan;
+    color:#ffffff
 }
 .fondoblanco{
     background-color: #ffffff;
@@ -27,14 +27,14 @@ h1{
     background-color: darkcyan;
     text-align: center;
     fill:#ffffff;
-   
 }
-.icono{
+.icono a{
     fill: #ffffff;
     }
 .letrasfooter{
     color:#ffffff;
     font-weight: 700;
+    text-align: center;
 }
 .letrasrelleno{
     font-weight: 300;
